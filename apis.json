@@ -1,0 +1,45 @@
+{
+    "name": "Github Gists",
+    "description": "GitHub brings together the world???s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we???re your all-in-one platform for collaborative development.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18915-github-gists.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/github-gists\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Github Gists",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18915-github-gists.jpg",
+            "humanURL": "https:\/\/gist.github.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-gists-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/github"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/github"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/gist.github.com\/"
+        }
+    ]
+}
